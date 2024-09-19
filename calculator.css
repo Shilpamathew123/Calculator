@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: #0606068c;
+    margin: 50px;
+    margin-top: 120px;
+}
+#title{
+    font-weight: bold;
+    font-size: 1.5em;
+    
+}
+.inputBox{
+    border-radius: 5px;
+    width:120px;
+    height: 20px;
+    border: none;
+    margin-top: 20px;
+    
+}
+.calculator{
+    background-color: rgb(199, 89, 199);
+    max-width: 250px;
+    height: 300px;
+    text-align: center;
+    margin-left: 450px;
+   
+}
+#buttons{
+   font-size: 2em;
+     border-radius: 5px;
+    
+}
+.button{
+    width: 40px;
+    height: 30px;
+}
+.clear{
+    width:70px;
+    height:30px
+}
